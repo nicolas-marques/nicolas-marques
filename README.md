@@ -15,6 +15,6 @@
   ##
  
 <div> 
- <a height="30" width="40" href="https://www.linkedin.com/in/nicolas-marques-31a11816a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a height="30" width="40" href="https://www.linkedin.com/in/nicolas-marques-31a11816a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">Nicolas</a> 
   
 </div>
