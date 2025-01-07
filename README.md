@@ -1,7 +1,7 @@
 # Hello, I'm Nicolas! 👋
 
 🎓 **Education:**  
-I hold a degree in Systems Analysis and Development from UNA Betim. I'm passionate about technology and focused on becoming a full-stack developer.  
+I hold a degree in Systems Analysis and Development from UNA Betim. I'm passionate about technology and focused on becoming a full-stack developer.  <hr />
 
 ### 💻 Technologies 
 <div style="display: inline_block"><br>
@@ -22,7 +22,7 @@ I hold a degree in Systems Analysis and Development from UNA Betim. I'm passiona
 - **Frameworks and Libraries:** ReactJS, Node.js, Express.  
 - **Databases:** MySQL, Sequelize.  
 - **Tools:** Git, GitHub, npm.
-
+<hr />
   
  ### 📈 GitHub Stats
 <p align=center>
@@ -34,7 +34,7 @@ I hold a degree in Systems Analysis and Development from UNA Betim. I'm passiona
   </a>
 </p>
 
-
+<hr />
 
 🌱 **Currently Learning:**  
 - Enhancing my skills in ReactJS, Node.js, and Sequelize.  
@@ -46,7 +46,8 @@ My goal is to become a full-stack developer, combining front-end and back-end sk
 📂 **Projects:**  
 - "Mata Mosquito" game developed with HTML, CSS, and JavaScript.  
 - Full-stack applications using Node.js, Express, Sequelize, and MySQL, available on my GitHub.  
-- Experience with academic projects and a 6-month internship where I honed my programming skills.  
+- Experience with academic projects and a 6-month internship where I honed my programming skills.
+ <hr />
 
 📚 **Study Plan:**  
 I dedicate 1 to 2 hours daily to structured study, ensuring consistent progress.  
