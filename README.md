@@ -1,4 +1,31 @@
-## Olá!!  Eu sou o Nicolas!
+# Hello, I'm Nicolas! 👋
+
+🎓 **Education:**  
+I hold a degree in Systems Analysis and Development from UNA Betim. I'm passionate about technology and focused on becoming a full-stack developer.  
+
+💻 **Skills:**  
+- **Languages:** HTML5, CSS3, JavaScript (ES6+), PHP.  
+- **Frameworks and Libraries:** ReactJS, Node.js, Express.  
+- **Databases:** MySQL, Sequelize.  
+- **Tools:** Git, GitHub, npm.  
+
+🌱 **Currently Learning:**  
+- Enhancing my skills in ReactJS, Node.js, and Sequelize.  
+- Studying Data Structures with arrays and objects.  
+
+🚀 **Goal:**  
+My goal is to become a full-stack developer, combining front-end and back-end skills to build complete and robust applications.  
+
+📂 **Projects:**  
+- "Mata Mosquito" game developed with HTML, CSS, and JavaScript.  
+- Full-stack applications using Node.js, Express, Sequelize, and MySQL, available on my GitHub.  
+- Experience with academic projects and a 6-month internship where I honed my programming skills.  
+
+📚 **Study Plan:**  
+I dedicate 1 to 2 hours daily to structured study, ensuring consistent progress.  
+
+
+
 
 
 ### 📈 GitHub Stats
@@ -24,6 +51,8 @@
   <img align="center" alt="Nicolas-MS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
         
 </div>
+
+<p> Explore my repositories to check out my progress and contributions. I'm always eager to learn and develop innovative solutions! 🚀</p> 
   
   ## 🧑🏾‍🚀 Social Media
  
