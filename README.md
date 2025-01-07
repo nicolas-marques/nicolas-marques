@@ -3,11 +3,38 @@
 🎓 **Education:**  
 I hold a degree in Systems Analysis and Development from UNA Betim. I'm passionate about technology and focused on becoming a full-stack developer.  
 
+### 💻 Technologies 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Nicolas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Nicolas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Nicolas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Nicolas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Nicolas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Nicolas-BS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />     <img align="center" alt="Nicolas-ND" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="center" alt="Nicolas-SQ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" />
+  <img align="center" alt="Nicolas-EX" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+  <img align="center" alt="Nicolas-MS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+        
+</div>
+
 💻 **Skills:**  
 - **Languages:** HTML5, CSS3, JavaScript (ES6+), PHP.  
 - **Frameworks and Libraries:** ReactJS, Node.js, Express.  
 - **Databases:** MySQL, Sequelize.  
-- **Tools:** Git, GitHub, npm.  
+- **Tools:** Git, GitHub, npm.
+
+  
+ ### 📈 GitHub Stats
+<p align=center>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source" target="_blank">
+    <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=nicolas-marques&show_icons=true&theme=react">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+  <img height=165 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-marques&layout=compact&theme=react" />
+  </a>
+</p>
+
+
 
 🌱 **Currently Learning:**  
 - Enhancing my skills in ReactJS, Node.js, and Sequelize.  
@@ -27,30 +54,6 @@ I dedicate 1 to 2 hours daily to structured study, ensuring consistent progress.
 
 
 
-
-### 📈 GitHub Stats
-<p align=center>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source" target="_blank">
-    <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=nicolas-marques&show_icons=true&theme=react">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img height=165 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-marques&layout=compact&theme=react" />
-  </a>
-</p>
-
-### 💻 Technologies 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Nicolas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Nicolas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Nicolas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Nicolas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Nicolas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Nicolas-BS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />     <img align="center" alt="Nicolas-ND" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img align="center" alt="Nicolas-SQ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" />
-  <img align="center" alt="Nicolas-EX" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
-  <img align="center" alt="Nicolas-MS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-        
-</div>
 
 <p> Explore my repositories to check out my progress and contributions. I'm always eager to learn and develop innovative solutions! 🚀</p> 
   
