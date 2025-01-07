@@ -1,3 +1,5 @@
+![!](https://komarev.com/ghpvc/?username=nicolas-marques&color=006699)
+
 # Hello, I'm Nicolas! 👋
 
 🎓 **Education:**  
