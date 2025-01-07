@@ -1,4 +1,17 @@
 ## Olá!!  Eu sou o Nicolas!
+
+
+### 📈 GitHub Stats
+<p align=center>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source" target="_blank">
+    <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=matheusreis-oliveira&show_icons=true&theme=react">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+  <img height=165 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusreis-oliveira&layout=compact&theme=react" />
+  </a>
+</p>
+
+### 💻 Technologies 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nicolas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nicolas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
