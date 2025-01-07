@@ -13,7 +13,7 @@ I hold a degree in Systems Analysis and Development from UNA Betim. I'm passiona
   <img align="center" alt="Nicolas-BS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />     <img align="center" alt="Nicolas-ND" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="Nicolas-SQ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" />
   <img align="center" alt="Nicolas-EX" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
-  <img align="center" alt="Nicolas-MS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Nicolas-MS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> <br/>
         
 </div>
 
@@ -39,7 +39,7 @@ I hold a degree in Systems Analysis and Development from UNA Betim. I'm passiona
 🌱 **Currently Learning:**  
 - Enhancing my skills in ReactJS, Node.js, and Sequelize.  
 - Studying Data Structures with arrays and objects.  
-
+<br/>
 🚀 **Goal:**  
 My goal is to become a full-stack developer, combining front-end and back-end skills to build complete and robust applications.  
 
